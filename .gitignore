@@ -1,0 +1,8 @@
+data/*.xlsx
+data/*.zip
+data/*.xlf
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+~$*
