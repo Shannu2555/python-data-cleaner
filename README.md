@@ -53,4 +53,4 @@ The test data is Chen, D. (2015), *Online Retail*, UCI Machine Learning Reposito
 
 The code is MIT licensed. See [LICENSE](LICENSE).
 
-Made by Shannu. I'm an engineering student and I'm starting out as a freelancer, so if you have a messy file, feel free to get in touch.
+Made by Shanmukh Narayana Chaganti. I'm an engineering student and I'm starting out as a freelancer, so if you have a messy file, feel free to get in touch.
