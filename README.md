@@ -4,6 +4,8 @@ Turns messy Excel/CSV exports into a clean, typed, de-duplicated workbook, with 
 
 ![Results](docs/step4_results.png)
 
+[▶ Watch the 38-second demo video](docs/demo.mp4)
+
 ## Problem
 Business exports are rarely analysis-ready: duplicate rows, stray and double spaces, IDs saved as numbers (`17850.0`), blank-like values (`N/A`, `-`, `null`), and dates or numbers stored as text. Fixing this by hand in Excel is slow and nobody can check what was changed.
 
